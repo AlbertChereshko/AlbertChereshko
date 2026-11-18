@@ -1,37 +1,21 @@
-# Привет, я Альберт! 👋
+# Albert Čereško
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Flutter%20%26%20Mobile%20Developer&fontSize=38&fontAlignY=35&animation=fadeIn" width="100%"/>
-</p>
+**From Cars to Code.** Former auto mechanic, now learning and building mobile apps with Flutter, Python and AI tools. Ukrainian living in Croatia 🇺🇦🇭🇷
 
-### 👨‍💻 Обо мне
-- 📱 Разрабатываю современные мобильные и кроссплатформенные приложения на **Flutter & Dart**.
-- 🛠 В работе уделяю внимание плавной анимации (120 FPS), архитектуре на **Riverpod**, чистому коду и тактильному отклику (Haptics).
-- 🚀 Текущий фокус: спортивные трекеры, интервальные таймеры, локальные базы данных (Hive) и интеграция с AI/LLM.
+## What I'm working on
+- **Snaha** — a free intermittent-fasting tracker for Android: no ads, data stays on the phone by default (in closed testing).
+- **Znahar** — a second app, in closed testing.
+- **[Workout Timer](https://github.com/AlbertChereshko/workout_timer)** — HIIT / Tabata / EMOM / AMRAP timer built with Flutter and Riverpod.
 
----
+## Stack
+Flutter · Dart · Riverpod · Hive · Firebase · Python
 
-### 💻 Стек технологий и инструменты
+## Open to
+Mobile apps (Flutter / Android), automation and scripts, UI design, AI integrations. Freelance, contract or a team role.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,linux,git,github,vscode" />
-</p>
-
----
-
-### 📊 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertChereshko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Albert's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertChereshko&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertChereshko&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%"/>
-</p>
+## Where to find me
+GitHub: [@AlbertChereshko](https://github.com/AlbertChereshko) · Privacy policies for my apps: [albertchereshko.github.io](https://albertchereshko.github.io)
 
 ---
 
-### 📫 Связаться со мной:
-- ✉️ Email: [achereshko@ukr.net](mailto:achereshko@ukr.net)
-- 🌐 GitHub: [@AlbertChereshko](https://github.com/AlbertChereshko)
+🇷🇺 Кратко по-русски: бывший автомеханик, делаю мобильные приложения на Flutter, пишу о пути «из автосервиса в IT» в соцсетях.
