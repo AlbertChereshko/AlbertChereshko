@@ -1,4 +1,4 @@
-# Albert Čereško
+# Albert Chereshko
 
 **From Cars to Code.** Former auto mechanic, now learning and building mobile apps with Flutter, Python and AI tools. Ukrainian living in Croatia 🇺🇦🇭🇷
 
